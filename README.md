@@ -1,3 +1,9 @@
+Kaggle Notebook : https://www.kaggle.com/code/usharengaraju/tensorflow-maskedautoencoders
+
+Colab Notebook : https://colab.research.google.com/drive/1rbYMNOTjcDPAegxpyBgc0c4rQv2ob95R?usp=sharing
+
+
+
 ### Bioacoustic-Sound-Detector
 
 Intro to the project
